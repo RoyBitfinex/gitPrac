@@ -1,0 +1,17 @@
+12:59:04	  叶祺 : 可以
+12:59:18	  赵匀瑄  对  德儿塔编程（私聊） : 还是看下程序吧..
+12:59:20	  叶祺 : 没
+13:06:57	  赵匀瑄  对  德儿塔编程（私聊） : 明白了
+13:11:09	  赵匀瑄  对  德儿塔编程（私聊） : 建一个列表？
+13:34:03	  赵匀瑄  对  德儿塔编程（私聊） : for循环里面
+13:34:24	  叶祺 : 没问题
+13:38:04	  德儿塔编程 : I really love peaches on my cereal.
+13:38:25	  德儿塔编程 : I'd rather have a candy bar
+13:39:20	  赵匀瑄  对  德儿塔编程（私聊） : 清楚
+13:39:24	  叶祺  对  德儿塔编程（私聊） : fruits = ['apples', 'bananas', 'peaches', 'cherries', 'pears', 'orange', 'strawberries']isFound = Falsewhile True:    s = input()    for f in fruits:        if s.find(f) != -1:            isFound = True            s = s.replace(f, 'NOI')        else:            continue    if isFound:        print(s)    else:        print('You must not enjoy in food')
+13:39:32	  赵匀瑄  对  德儿塔编程（私聊） : fruits = ["apples", "bananas","peaches","cherries","pears","oranges","strawberries"]while True:    s = input()    isFound = False    for f in fruits:        if s.find(f) != -1:            isFound = True            s = s.replace(f, "NOI")        else:            continue    if isFound:        print(s)    else:        print("You must not enjoy fruits.")
+13:41:30	  叶祺  对  德儿塔编程（私聊） : 嗯
+13:42:10	  叶祺  对  德儿塔编程（私聊） : fruits = ['apples', 'bananas', 'peaches', 'cherries', 'pears', 'orange', 'strawberries']isFound = Falsewhile True:    s = input()    for f in fruits:        if s.find(f) != -1:            isFound = True            s = s.replace(f, 'NOI')        else:            continue    if isFound:        print(s)    else:        print('You must not enjoy in food')
+13:42:19	  叶祺  对  德儿塔编程（私聊） : 发了
+14:13:32	  赵匀瑄  对  德儿塔编程（私聊） : 没了
+14:13:34	  叶祺  对  德儿塔编程（私聊） : 没
